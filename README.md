@@ -34,7 +34,7 @@
 
 ### Профиль на CodeWars
 
-![CodeWars](https://www.codewars.com/users/St1ckman)
+![CodeWars](https://www.codewars.com/users/St1ckman/badges/large)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlexandrBatrakov&show_icons=true&theme=gotham" alt="Alexandr Andrashov" />
