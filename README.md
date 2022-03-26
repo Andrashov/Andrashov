@@ -4,7 +4,7 @@
 
 <br />
   
-<!-- ### Технологии с которыми я взаимодействовал:
+  ### Технологии с которыми я взаимодействовал:
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
@@ -24,7 +24,6 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-431490?logo=heroku&style=for-the-badge)](https://www.heroku.com/)
 ![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
  
- -->
 
 ### Профиль на CodeWars
 
